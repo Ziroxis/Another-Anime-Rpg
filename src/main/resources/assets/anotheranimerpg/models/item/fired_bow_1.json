@@ -1,0 +1,6 @@
+{
+  "parent": "anotheranimerpg:item/iced_bow",
+  "textures": {
+    "layer0": "anotheranimerpg:items/fired_bow_1"
+  }
+}

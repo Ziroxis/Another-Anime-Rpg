@@ -1,0 +1,9 @@
+{
+  "variants":
+  {
+    "":
+    {
+      "model": "anotheranimerpg:block/migem_ore"
+    }
+  }
+}

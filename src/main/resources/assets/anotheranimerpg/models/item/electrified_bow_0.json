@@ -1,0 +1,6 @@
+{
+    "parent": "anotheranimerpg:item/electrified_bow",
+    "textures": {
+        "layer0": "anotheranimerpg:items/electrified_bow_0"
+    }
+}

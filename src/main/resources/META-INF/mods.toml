@@ -1,0 +1,13 @@
+modLoader="javafml"
+loaderVersion="[40,)"
+license="All rights reserved"
+[[mods]]
+modId="anotheranimerpg"
+version="${file.jarVersion}"
+displayName="Another Anime Rpg mod" #mandatory
+logoFile="examplemod.png" #optional
+credits="Wynd-sensei" #optional
+authors="Beo, Soft, Con" #optional
+description='''
+Mod based around popular anime rpgs worlds and stuff'''
+# A dependency - use the . to indicate dependency for a specific modid. Dependencies are optional.
